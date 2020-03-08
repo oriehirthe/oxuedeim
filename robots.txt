@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oxeibahya.yaowanwei96.cn/sitemap.xml
